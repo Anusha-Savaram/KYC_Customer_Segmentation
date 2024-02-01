@@ -1,4 +1,4 @@
-# DAV Final Project: Advanced Customer Segmentation Analysis
+# Advanced Customer Segmentation Analysis
 
 ## Overview
 "Customer Segmentation - Know Your Customer" is a comprehensive analysis aimed at understanding customers' personalities, spending behaviors, and preferences. This project utilizes k-means clustering to categorize customers into distinct groups, enabling businesses to tailor their marketing strategies effectively and efficiently.
